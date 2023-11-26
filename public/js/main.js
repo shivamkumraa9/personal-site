@@ -221,7 +221,7 @@ const projects = [
     type: 'Web application',
     imageDirName: 'sellify',
     technologies: 'Node js, Vue js, MongoDB, Express js, Bootstrap, Stripe',
-    liveDemo: 'https://sellify-production.up.railway.app/',
+    liveDemo: 'https://glamorous-sweatpants-bull.cyclic.app/',
     github: 'https://github.com/shivamkumraa9/sellify',
   },
   {
