@@ -221,7 +221,7 @@ const projects = [
     type: 'Web application',
     imageDirName: 'sellify',
     technologies: 'Node js, Vue js, MongoDB, Express js, Bootstrap, Stripe',
-    liveDemo: 'https://glamorous-sweatpants-bull.cyclic.app/',
+    liveDemo: 'https://sellify-cdam.onrender.com/',
     github: 'https://github.com/shivamkumraa9/sellify',
   },
   {
@@ -232,7 +232,7 @@ const projects = [
     type: 'Web application',
     imageDirName: 'forms',
     technologies: 'ExpressJs, ReactJS, MongoDB, Bootstrap.',
-    liveDemo: 'https://devforms.cyclic.app/',
+    liveDemo: 'https://dev-forms.onrender.com/',
     github: 'https://github.com/shivamkumraa9/dev-forms',
   },
   {
